@@ -12,7 +12,7 @@ I came to data from operations: years running residential properties, and record
 
 - **[Rental Insights](https://patrick-hancock.github.io/work-rental-insights.html)**: A governed data and AI system on public US rental data
 - **[AI Control Testing](https://patrick-hancock.github.io/work-control-testing.html)**: Security testing for an AI assistant, decided by evidence
-- **[Domain Q&A Service](https://patrick-hancock.github.io/work-domain-qa.html)**: One question box over definitions, process documents and live data, with every answer cited or refused
+- **[Domain Q&A Service](https://patrick-hancock.github.io/work-domain-qa.html)**: A production AI assistant that answers from the team's own sources or says it cannot
 
 ## Platforms
 
